@@ -1,6 +1,6 @@
 package TERNARY;
 
-public class GRADE_CAL {
+public class T_GRADE_CAL {
     public static void main(String[] args) {
         int n=90;
         /*
