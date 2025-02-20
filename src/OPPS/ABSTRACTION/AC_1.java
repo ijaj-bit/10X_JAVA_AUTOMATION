@@ -1,4 +1,4 @@
-package OPPS.ABTRACTION;
+package OPPS.ABSTRACTION;
 
 public class AC_1 {
     public static void main(String[] args) {

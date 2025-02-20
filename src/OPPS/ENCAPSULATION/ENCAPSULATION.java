@@ -1,5 +1,5 @@
 package OPPS.ENCAPSULATION;
-//## Encapsulation
+//Encapsulation
 //- Encapsulation is a fundamental concept in object-oriented programming (OOP).
 //- Bundling of data and methods that operate on that data within a single unit.
 //- Data members should be private in nature.

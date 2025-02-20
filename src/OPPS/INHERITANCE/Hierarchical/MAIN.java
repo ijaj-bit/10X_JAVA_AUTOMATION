@@ -1,4 +1,4 @@
-package OPPS.Hierarchical;
+package OPPS.INHERITANCE.Hierarchical;
 
 public class MAIN {
     public static void main(String[] args) {

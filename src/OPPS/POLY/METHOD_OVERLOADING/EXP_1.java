@@ -10,6 +10,6 @@ public class EXP_1 {
     {
         return a+b+c;
     }
-
+//Method Overloading Means Having same Function name with diffrent arguments.
 
 }

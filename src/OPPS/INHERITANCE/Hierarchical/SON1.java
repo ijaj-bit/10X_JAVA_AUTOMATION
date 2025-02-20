@@ -1,4 +1,4 @@
-package OPPS.Hierarchical;
+package OPPS.INHERITANCE.Hierarchical;
 
 public class SON1 extends Father {
 

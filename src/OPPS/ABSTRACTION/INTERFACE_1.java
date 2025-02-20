@@ -1,4 +1,4 @@
-package OPPS.ABTRACTION;
+package OPPS.ABSTRACTION;
 
 public class INTERFACE_1 {
 
