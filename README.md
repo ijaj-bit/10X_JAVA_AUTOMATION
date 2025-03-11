@@ -45,8 +45,8 @@ Welcome to my **Java Automation Testing** repository! This repository showcases 
 
 ## 📬 Connect With Me  
 📌 **Mob:8308012742  
-📌 **Email:** your.email@example.com  
-📌 **GitHub:** 
+📌 **Email:** ijaj7732@gmail.com 
+📌 **GitHub:** https://github.com/ijaj-bit/10X_JAVA_AUTOMATION/tree/master
 
 🔹 **Open to networking and collaboration in automation testing & software quality assurance!** 🚀  
 
